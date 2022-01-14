@@ -4,4 +4,4 @@ Hena - Favourite food: Pani puri
 
 J - Favourite food: Sashimi
 
-![Sashimi](IFT-6759-test\sashimi.jpg)
+![Sashimi](sashimi.jpg)
