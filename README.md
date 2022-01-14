@@ -1,3 +1,4 @@
 # IFT-6759-test
 
-* My name is Evelin and my favorite food is shushi, I think, or takoyaki, not sure
+Hena - Favourite food: Pani puri
+* Evelin - favorite food is shushi, or takoyaki, not sure
